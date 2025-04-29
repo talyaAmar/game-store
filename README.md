@@ -18,7 +18,7 @@ This online game store website is a Full Stack E-commerce project that allows us
 ### Installation and Running
 1. Clone the project:
 bash
-git clone https://github.com/Ayala-levi/Toy-Store.git
+git clone https://github.com/talyaAmar/game-store.git
 
 
 2. Install dependencies:
@@ -60,7 +60,7 @@ npm start
 ## התקנה והרצה
 1. שיבוט הפרויקט:
 bash
-git clone https://github.com/Ayala-levi/Toy-Store.git
+git clone https://github.com/talyaAmar/game-store.git
 
 
 2. התקנת תלויות: 
