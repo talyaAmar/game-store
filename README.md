@@ -17,26 +17,27 @@ This online game store website is a Full Stack E-commerce project that allows us
 **Administrator Permissions:** Manage game inventory and categories.
 ### Installation and Running
 1. Clone the project:
-bash
+```bash
 git clone https://github.com/talyaAmar/game-store.git
-
+```
 
 2. Install dependencies:
-bash
+```bash
 cd project_with_install
 npm install
 cd projecte
 npm install
-
+```
 
 3. Run the server:
-bash
+```bash
 node app.js
-
+```
 
 4. Run the client:
-bash
+```bash
 npm start
+```
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -59,25 +60,28 @@ npm start
 **הרשאות מנהל:** ניהול מלאי משחקים וקטגוריות.
 ## התקנה והרצה
 1. שיבוט הפרויקט:
-bash
+```bash
 git clone https://github.com/talyaAmar/game-store.git
+```
 
 
 2. התקנת תלויות: 
-bash
+```bash
 cd project_with_install
 npm install
 cd projecte
 npm install
+```
 
 
-3. הרצת השרת:
-   
-bash
+3. הרצת השרת: 
+```bash
 node app.js
+```
 
 
 4. הרצת הלקוח:
    
-bash
+```bash
 npm start
+```
